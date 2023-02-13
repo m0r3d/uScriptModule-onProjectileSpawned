@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using uScript.API.Attributes;
-using System.Text;
-using System.Threading.Tasks;
+﻿using uScript.API.Attributes;
 using SDG.Unturned;
-using Steamworks;
 using uScript.Core;
 using uScript.Module.Main.Classes;
 using System.Reflection;
